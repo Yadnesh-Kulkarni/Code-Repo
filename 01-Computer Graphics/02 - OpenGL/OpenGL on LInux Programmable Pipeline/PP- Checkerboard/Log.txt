@@ -1,0 +1,4 @@
+
+ Log file opened 
+
+log file closed 

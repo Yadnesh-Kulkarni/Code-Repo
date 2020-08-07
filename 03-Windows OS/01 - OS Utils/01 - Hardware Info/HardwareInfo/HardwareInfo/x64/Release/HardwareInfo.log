@@ -1,0 +1,6 @@
+﻿  HardwareInfo.cpp
+d:\hardware info\hardwareinfo\hardwareinfo\hardwareinfo.cpp(107): warning C4101: 'fp': unreferenced local variable
+  Generating code
+  All 51 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HardwareInfo.vcxproj -> D:\Hardware Info\HardwareInfo\x64\Release\HardwareInfo.exe

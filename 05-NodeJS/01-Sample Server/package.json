@@ -1,0 +1,11 @@
+{
+  "name": "sample-server",
+  "version": "1.0.0",
+  "description": "Sample Test Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Yadnesh\"",
+  "license": "ISC"
+}

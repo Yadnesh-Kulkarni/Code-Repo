@@ -1,0 +1,4 @@
+#Tue Jan 02 10:11:16 IST 2018
+base.0=C\:\\Users\\Yadnesh\\Documents\\rtr\\OpenGL-on-Android\\03-FullScreenClass\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,4 @@
+#Tue Feb 13 07:15:18 IST 2018
+base.0=C\:\\Users\\Yadnesh\\Documents\\rtr\\OpenGL-on-Android\\14-Simple Smiley\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

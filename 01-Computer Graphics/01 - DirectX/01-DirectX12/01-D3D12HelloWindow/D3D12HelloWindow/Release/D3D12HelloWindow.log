@@ -1,0 +1,5 @@
+﻿  BaseWindowClass.cpp
+  GraphicsBase.cpp
+  main.cpp
+GraphicsBase.obj : error LNK2001: unresolved external symbol _D3D12CreateDevice@16
+C:\Yadnesh\Code Repo\DirectX12\D3D12HelloWindow\Release\D3D12HelloWindow.exe : fatal error LNK1120: 1 unresolved externals

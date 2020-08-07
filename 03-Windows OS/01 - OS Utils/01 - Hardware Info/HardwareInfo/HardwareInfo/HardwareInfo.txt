@@ -1,0 +1,46 @@
+******** Processor Info ********
+Serial Number: N/A
+NumberOfCores: 2
+Architecture: 9
+Family: 28233
+Name: Intel(R) Core(TM) i7-4500U CPU @ 1.80GHz
+Manufacturer: GenuineIntel
+
+******** Motherboard Info ********
+Serial Number: N/A
+Model: (null)
+Manufacturer: Sony Corporation
+
+******** HDD Info ********
+Serial Number:      WD-WX81A73L4399
+Block Size: 2497326692952
+Model: WDC WD10S12X-55JTET0
+Manufacturer: (Standard disk drives)
+
+******** Physical Memory Info ********
+Serial Number: NA
+Capacity: 2497326727624
+Model: (null)
+Name: Physical Memory
+Manufacturer: NA
+Serial Number: NA
+Capacity: 2497326727624
+Model: (null)
+Name: Physical Memory
+Manufacturer: NA
+
+******** Network Card Info ********
+Name: Realtek PCIe GBE Family Controller
+MAC Address: 3C:07:71:73:BD:2C
+DeviceID: NA
+AdapterType: Ethernet 802.3
+
+***************Test*******************
+Processor Serial Number : NULL
+Hard Disk Serial Number :      WD-WX81A73L4399
+Processor Number : NULL
+Motherboard Serial Number : NULL
+Physical Memory Serial Number : NULL
+MAC ID : 3C:07:71:73:BD:2C
+
+HashKey : 251dfd99b887240c8c7229457db303d

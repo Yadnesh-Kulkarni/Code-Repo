@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Jan 08 17:15:51 IST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Yadnesh\\Documents\\rtr\\OpenGL-on-Android\\04-OpenGLFirstWindow\\app\\build\\intermediates\\transforms\\dex\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1

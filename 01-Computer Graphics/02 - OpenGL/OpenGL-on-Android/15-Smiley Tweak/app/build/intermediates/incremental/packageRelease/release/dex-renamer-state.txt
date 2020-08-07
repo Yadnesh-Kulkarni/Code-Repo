@@ -1,0 +1,4 @@
+#Tue Feb 13 07:35:40 IST 2018
+base.0=C\:\\Users\\Yadnesh\\Documents\\rtr\\OpenGL-on-Android\\15-Smiley Tweak\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,4 @@
+#Tue Jan 02 09:46:19 IST 2018
+base.0=C\:\\Users\\Yadnesh\\Documents\\rtr\\OpenGL-on-Android\\02-FullScreen\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

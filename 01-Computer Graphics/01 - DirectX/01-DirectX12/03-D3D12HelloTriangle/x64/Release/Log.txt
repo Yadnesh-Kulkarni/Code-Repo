@@ -1,0 +1,2 @@
+Log File Opened
+Unable to compile vertex shader

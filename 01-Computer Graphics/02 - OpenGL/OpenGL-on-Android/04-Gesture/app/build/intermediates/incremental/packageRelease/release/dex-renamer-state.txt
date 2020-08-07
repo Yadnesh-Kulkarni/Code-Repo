@@ -1,0 +1,4 @@
+#Mon Jan 08 16:38:08 IST 2018
+base.0=C\:\\Users\\Yadnesh\\Documents\\rtr\\OpenGL-on-Android\\04-Gesture\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

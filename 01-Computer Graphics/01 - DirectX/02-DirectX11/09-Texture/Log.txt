@@ -1,0 +1,37 @@
+Log File Is Successfully Opened.
+D3D11CreateDeviceAndSwapChain() Succeeded.
+The Chosen Driver is Of : Hardware Type.
+The Supported Highest Level is : 11.0
+D3DCompile Succeded for Vertex Shader
+CreateVertexShader Succeded
+D3DCompile Succeded for Pixel Shader
+CreatePixelShader Succeded
+CreateBuffer Succeded
+CreateBuffer Succeded
+CreateBuffer Succeded
+CreateBuffer Succeded
+CreateInputLayout Succeded
+CreateBuffer() Succeded for Constant Buffer
+CreateWICTextureFromFile() Succeeded.
+LoadD3DTexture() Succeded for Pyramid
+CreateSamplerState() Succeded for Pyramid
+CreateWICTextureFromFile() Succeeded.
+LoadD3DTexture() Succeded for Cube
+CreateSamplerState() Succeded for Cube
+ID3D11Device::CreateRenderTargetView() Succeeded.
+ID3D11Device::CreateTexture2D() Succeeded.
+ID3D11Device::CreateDepthStencilView() Succeeded.
+Resize() Succeeded.
+initialize() Succeeded.
+ID3D11Device::CreateRenderTargetView() Succeeded.
+ID3D11Device::CreateTexture2D() Succeeded.
+ID3D11Device::CreateDepthStencilView() Succeeded.
+resize() Succeeded.
+ID3D11Device::CreateRenderTargetView() Succeeded.
+ID3D11Device::CreateTexture2D() Succeeded.
+ID3D11Device::CreateDepthStencilView() Succeeded.
+resize() Succeeded.
+Uninitialize() Succeeded!!!.
+Log File is Successfully Closed.
+Uninitialize() Succeeded!!!.
+Log File is Successfully Closed.
